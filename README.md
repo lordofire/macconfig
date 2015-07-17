@@ -1,2 +1,2 @@
 # ownconfig
-config files
+configure for mac machines
